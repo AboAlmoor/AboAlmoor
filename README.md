@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 🖐️, I'm Amir Saleh, A passionate student specializing in Machine Learning and Artificial Intelligence. I'm driven by curiosity and enjoy building intelligent systems that solve real-world problems. I actively explore projects in deep learning, data science, and AI research.<br><br>📍 Location: Salfit, Palestine.<br>📧 Email: salehameer079@gmail.com.<br>📞 Phone: 0595672056.
+Hi 🖐️, I'm Ameer Saleh, A passionate student specializing in Machine Learning and Artificial Intelligence. I'm driven by curiosity and enjoy building intelligent systems that solve real-world problems. I actively explore projects in deep learning, data science, and AI research.<br><br>📍 Location: Salfit, Palestine.<br>📧 Email: salehameer079@gmail.com.<br>📞 Phone: 0595672056.
 
 
 ## 🌐 Socials:
